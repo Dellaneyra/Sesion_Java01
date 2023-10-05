@@ -33,7 +33,7 @@ public class Test {
 				System.out.println(Masiosare);
 
 		//cambiar el false de seguroMedico a true
-				Masiosare.setSeguroGastosMedicos(true);
+				//Masiosare.setSeguroGastosMedicos(true);
 				System.out.println("********************");
 				System.out.println(Masiosare);
 				
